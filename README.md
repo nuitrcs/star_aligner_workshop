@@ -1,2 +1,2 @@
-# staar_aligner_workshop
-Materials for workshop on using the STAAR alignment tool
+# STAR RNA-seq aligner
+Materials for workshop on using the STAR alignment tool
